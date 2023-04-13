@@ -2,6 +2,6 @@
 
  Curso Web Design Completo
 
-[x] Introdução
-[x] Introdução ao CSS
-[ ] Visual PT01
+- [x] Introdução
+- [x] Introdução ao CSS
+- [ ] Visual PT01
